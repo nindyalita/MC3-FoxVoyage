@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		16A376022A68D7870077DE2A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 16A376012A68D7870077DE2A /* .gitignore */; };
 		16C528052A68D4AA007F2775 /* FoxVoyageApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16C528042A68D4AA007F2775 /* FoxVoyageApp.swift */; };
 		16C528072A68D4AA007F2775 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16C528062A68D4AA007F2775 /* ContentView.swift */; };
 		16C528092A68D4AA007F2775 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16C528082A68D4AA007F2775 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		16A376012A68D7870077DE2A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		16C528012A68D4AA007F2775 /* FoxVoyage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoxVoyage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16C528042A68D4AA007F2775 /* FoxVoyageApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoxVoyageApp.swift; sourceTree = "<group>"; };
 		16C528062A68D4AA007F2775 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		16C527F82A68D4A9007F2775 = {
 			isa = PBXGroup;
 			children = (
+				16A376012A68D7870077DE2A /* .gitignore */,
 				16C528032A68D4AA007F2775 /* FoxVoyage */,
 				16C528022A68D4AA007F2775 /* Products */,
 			);
@@ -198,6 +201,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				16C5280C2A68D4AA007F2775 /* Preview Assets.xcassets in Resources */,
+				16A376022A68D7870077DE2A /* .gitignore in Resources */,
 				16C528092A68D4AA007F2775 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
